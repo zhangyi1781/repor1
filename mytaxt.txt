@@ -1,1 +1,2 @@
 mytext,hello world!
+love Java£¡
